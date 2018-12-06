@@ -153,7 +153,7 @@ textarea {
 
 .page-block p {
     font-size:1.750em;
-    font-family:"futuraLight", arial, sans-serif;
+    font-family: arial, sans-serif;
     line-height:190%;
     width:850px;
     margin:55px auto;
@@ -349,7 +349,7 @@ textarea {
 .page-block h1 {
     font-size:7.813em;
     text-transform:uppercase;
-    font-family:"futuraBold", arial, sans-serif;
+    font-family: arial, sans-serif;
     text-shadow: 0 1px 0 #1B597A;
     margin:0;
     line-height:1;
@@ -562,7 +562,7 @@ h2 {
     color: #EFF8FC;
     font-size: 1.688em;
     text-transform: uppercase;
-    font-family: "futuraLight", arial, sans-serif;
+    font-family: arial, sans-serif;
     font-weight: normal;
     letter-spacing: 1px;
 }
@@ -586,7 +586,7 @@ h2 {
 }
 
 h3 {
-    font-family:"futuraBold", arial, sans-serif;
+    font-family: arial, sans-serif;
     font-size:3.125em;
     width:800px;
     margin:80px auto 0 auto;
@@ -641,7 +641,7 @@ h3 {
 
 .scroll-text {
     font-size: 44px;
-    font-family: 'journalregular', arial, sans-serif;
+    font-family: arial, sans-serif;
     color: #EFF8FC;
     position: absolute;
     width: 100%;
@@ -854,7 +854,7 @@ h3 {
 
 .its-responsive {
   transform: rotate(-7deg);
-  font-family: 'journalregular', arial, sans-serif;
+  font-family: arial, sans-serif;
   color: #FFF;
   font-size: 38px;
   display: block;
@@ -863,7 +863,7 @@ h3 {
 
 .btn {
     border-radius:3px;
-    font-family:"futuraBold";
+    font-family: arial, sans-serif;
     color:#FFF;
     font-size:1.875em;
     padding:20px 30px 12px 30px;
@@ -1560,7 +1560,7 @@ h3 {
     outline:0;
     border-radius:3px;
     border:0;
-    font-family:"futuraBold", arial, sans-serif;
+    font-family: arial, sans-serif;
     width:250px;
     height:80px;
     text-align:center;
@@ -2516,7 +2516,7 @@ h3 {
     margin:95px 0 0 0;
     overflow:hidden;
     color:#838383;
-    font-family:"futuraLight", arial, sans-serif;
+    font-family:arial, sans-serif;
 }
 
 .stevie-img {
@@ -2620,7 +2620,7 @@ h3 {
     -ms-transition:.2s ease-in-out;
     -o-transition:.2s ease-in-out;
     transition:.2s ease-in-out;
-    font-family:'journalregular', arial, sans-serif;
+    font-family:arial, sans-serif;
     transition:.2s ease-in-out;
     padding-bottom:20px;
     position:relative;
@@ -2694,7 +2694,7 @@ h3 {
     text-align:center;
     color:#999;
     font-size:18px;
-    font-family:"futuraLight", arial, sans-serif;
+    font-family:arial, sans-serif;
 }
 
 .message-sent.active {
@@ -2757,7 +2757,7 @@ h3 {
 }
 
 .letter-submit:before {
-    font-family:"FontAwesome";
+    font-family:arial, sans-serif;
     content:'\f0e0';
     position:absolute;
     left:-20px;
