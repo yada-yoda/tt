@@ -1,5 +1,7 @@
-.awesometable1 {
+#awesometable1 {
+  position:fixed;
   width: 50%;
+  margin: 10px 15% 15px 15%;
 
 }
 li {
