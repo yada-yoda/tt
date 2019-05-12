@@ -325,7 +325,7 @@ textarea {
     background:#9264AC;
 }
 .page-block.philosophy {
-    background:#FB934D;
+    background:#FFFFFF;
     position:relative;
 }
 .page-block.personal {
@@ -606,7 +606,7 @@ h3 {
 }
 
 .philosophy h3 {
-    color:#FFF7F0;
+    color:#2C90C5;
     text-shadow: 0 1px 0 #943D03;
 }
 
