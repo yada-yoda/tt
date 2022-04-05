@@ -190,10 +190,15 @@ textarea {
 .page-block.philosophy p {
     color:#FFF7F0;
 }
+.page-block.personal p {
+    color:#FFFFFF;
+}
 
+/**
 .page-block.personal p {
     color:#FFF2EA;
 }
+*/
 
 .page-block.intro {
     background:#2C90C5;
@@ -329,9 +334,16 @@ textarea {
     position:relative;
 }
 .page-block.personal {
+    background:#FFFFFF;
+    position:relative;
+}
+
+/**
+.page-block.personal {
     background:#C7666D;
     position:relative;
 }
+*/
 
 .intro-slogan {
     position:absolute;
@@ -610,10 +622,19 @@ h3 {
     text-shadow: 0 1px 0 #943D03;
 }
 
+/**
 .personal h3 {
     color:#FDFBFB;
     text-shadow: 0 1px 0 #8C353C;
 }
+ */
+ 
+.personal h3 {
+    color:#2C90C5;
+    text-shadow: 0 1px 0 #943D03;
+}
+
+
 
 /**
  *  Intro Page
